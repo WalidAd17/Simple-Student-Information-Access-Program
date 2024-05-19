@@ -2,11 +2,11 @@
 #include <string.h>
 
 // Define the student password and information here
-#define PASSWORD "232331012345"
+#define PASSWORD "123456789"
 #define FIRSTNAME "MonNom"
 #define LASTNAME "MonPrenom"
-#define BIRTHDAY "12/12/2005"
-#define BAC_YEAR "2023"
+#define BIRTHDAY "17/01/2001"
+#define BAC_YEAR "2018"
 
 void displayStudentInfo() {
     printf("---------------------------------\n");
